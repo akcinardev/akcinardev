@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akcinardev&label=Profile%20views&color=0e75b6&style=flat" alt="akcinardev" /> </p>
 
-- 🔭 I’m currently working on [Beginner Programming Challenges - Name Generator](https://github.com/akcinardev/00-name-generator)
+- 🔭 I’m currently working on **C# Beginner Projects**
 
 - 🌱 I’m currently learning **C# Development**
 
