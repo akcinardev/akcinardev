@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akcinardev&label=Profile%20views&color=0e75b6&style=flat" alt="akcinardev" /> </p>
 
-- 🔭 I’m currently working on **C# Beginner Projects**
+- 🔭 I’m currently working on **C# Projects**
 
-- 🌱 I’m currently learning **C# Development**
+- 🌱 I’m currently learning **ASP.NET and JavaScript**
 
 - 🤝 I’m looking for help with **any project that i work on. Since i am a beginner i appreciate all feedback.**
 
