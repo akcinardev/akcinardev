@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omrakcinar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26163553) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,aws,bash,cs,docker,dotnet,fastapi,git,github,jenkins,mysql,ps,postgres,py,sqlite,ubuntu,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,aws,bash,docker,dotnet,fastapi,git,github,jenkins,mysql,ps,postgres,py,sqlite,ubuntu,unity)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akcinardev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
