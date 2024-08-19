@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akcinardev&label=Profile%20views&color=0e75b6&style=flat" alt="akcinardev" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Development with ASP.NET and JavaScript**
+- 🌱 I’m currently learning and trying to improve my skills in **Full-Stack Development with ASP.NET, JavaScript, React**
 
 - 🤝 I’m looking for help with **any project that i work on. Since i am a beginner i appreciate all feedback.**
 
