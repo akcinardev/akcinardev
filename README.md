@@ -24,3 +24,20 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,py,aws,bash,docker,fastapi,git,github,jenkins,ps,postgres,sqlite,ubuntu,unity" />
   </a>
 </p>
+
+<h3 align="left">Example Projects:</h3>
+<table>
+  <tr>
+    <th>Display</th>
+    <th>Project Name</th>
+    <th>Project URL</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/akcinardev/html-css-course/blob/main/omnifood/display.gif" alt="Omnifood Project by AkcDev" width="500" /></td>
+    <td>Omnifood</td>
+    <td><a href="https://omnifood-akcdev.netlify.app/" target="_blank">Live Demo</a></td>
+    <td>A short description of Project 1.</td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js" /></td>
+</table>
