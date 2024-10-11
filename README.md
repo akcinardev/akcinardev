@@ -35,9 +35,10 @@
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/akcinardev/html-css-course/blob/main/omnifood/display.gif" alt="Omnifood Project by AkcDev" width="500" /></td>
-    <td>Omnifood</td>
+    <td><img src="https://github.com/akcinardev/html-css-course/blob/main/omnifood/display.gif" alt="Omnifood Project by AkcDev" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/html-css-course/tree/main/omnifood" target="_blank">Omnifood</a></td>
     <td><a href="https://omnifood-akcdev.netlify.app/" target="_blank">Live Demo</a></td>
-    <td>A short description of Project 1.</td>
+    <td><p><strong>Omnifood</strong> is a mockup food delivery application that showcases a seamless ordering experience, allowing users to explore restaurants, customize orders, and visualize real-time tracking.</p>
+</td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js" /></td>
 </table>
