@@ -50,4 +50,12 @@
     <td><strong>StockMarketAPI</strong> is an API for managing stock market data. It allows users to register, log in, and manage their stock portfolios. The API includes features for CRUD (Create, Read, Update, Delete) operations on stocks, comments, and user portfolios. It also supports authorization and JWT (JSON Web Token) for secure access.</td>
     <td><img src="https://skillicons.dev/icons?i=cs,dotnet" /></td>
   </tr>
+
+  <tr>
+    <td><img src="https://github.com/akcinardev/react-simple-pizza-menu/blob/master/display.png" alt="Pizzeria Menu with React" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/react-simple-pizza-menu" target="_blank">Pizzeria Menu Page with React</a></td>
+    <td><a href="" target="_blank"></a></td>
+    <td><strong>React Pizzeria</strong> is a simple React application that displays a menu of pizzas, including their ingredients and prices. The application features a dynamic interface that indicates whether the pizzeria is currently open or closed based on the time of day.</td>
+    <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
+  </tr>
 </table>
