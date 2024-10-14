@@ -20,8 +20,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,py,aws,bash,docker,fastapi,git,github,jenkins,ps,postgres,sqlite,ubuntu,unity" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,py,aws,bash,docker,fastapi,git,github,jenkins,ps,postgres,sqlite,ubuntu,unity" />
   </a>
 </p>
 
