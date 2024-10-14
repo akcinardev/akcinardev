@@ -44,7 +44,7 @@
   </tr>
 
   <tr>
-    <td><img src="" alt="" width="300" /></td>
+    <td><img src="https://github.com/akcinardev/StockMarketAPI/blob/master/stockmarket-display.gif" alt="Stock Market API Display GIF" width="300" /></td>
     <td><a href="https://github.com/akcinardev/StockMarketAPI" target="_blank">Stock Market API</a></td>
     <td><a href="" target="_blank"></a></td>
     <td><strong>StockMarketAPI</strong> is an API for managing stock market data. It allows users to register, log in, and manage their stock portfolios. The API includes features for CRUD (Create, Read, Update, Delete) operations on stocks, comments, and user portfolios. It also supports authorization and JWT (JSON Web Token) for secure access.</td>
