@@ -58,4 +58,12 @@
     <td><strong>React Pizzeria</strong> is a simple React application that displays a menu of pizzas, including their ingredients and prices. The application features a dynamic interface that indicates whether the pizzeria is currently open or closed based on the time of day.</td>
     <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
   </tr>
+
+  <tr>
+    <td><img src="https://github.com/akcinardev/splitn-eat/blob/master/splitneat-display.gif" alt="Split'n Eat Display GIF" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/splitn-eat" target="_blank">Split'n Eat with React</a></td>
+    <td><a href="" target="_blank"></a></td>
+    <td><strong>Split'n Eat</strong> is a simple React application that helps users manage shared expenses with friends. It allows users to add friends, track balances, and split bills by specifying each party's contribution, making it easy to settle debts and keep track of who owes what.</td>
+    <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
+  </tr>
 </table>
