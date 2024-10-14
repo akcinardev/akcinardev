@@ -53,7 +53,7 @@
 
   <tr>
     <td><img src="https://github.com/akcinardev/react-simple-pizza-menu/blob/master/display.png" alt="Pizzeria Menu with React" width="300" /></td>
-    <td><a href="https://github.com/akcinardev/react-simple-pizza-menu" target="_blank">Pizzeria Menu Page with React</a></td>
+    <td><a href="https://github.com/akcinardev/react-simple-pizza-menu" target="_blank">Pizzeria Menu Page</a></td>
     <td><a href="" target="_blank"></a></td>
     <td><strong>React Pizzeria</strong> is a simple React application that displays a menu of pizzas, including their ingredients and prices. The application features a dynamic interface that indicates whether the pizzeria is currently open or closed based on the time of day.</td>
     <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
@@ -61,9 +61,17 @@
 
   <tr>
     <td><img src="https://github.com/akcinardev/splitn-eat/blob/master/splitneat-display.gif" alt="Split'n Eat Display GIF" width="300" /></td>
-    <td><a href="https://github.com/akcinardev/splitn-eat" target="_blank">Split'n Eat with React</a></td>
+    <td><a href="https://github.com/akcinardev/splitn-eat" target="_blank">Split'n Eat</a></td>
     <td><a href="" target="_blank"></a></td>
     <td><strong>Split'n Eat</strong> is a simple React application that helps users manage shared expenses with friends. It allows users to add friends, track balances, and split bills by specifying each party's contribution, making it easy to settle debts and keep track of who owes what.</td>
+    <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/akcinardev/react-simple-far-away/blob/master/faraway-display.gif" alt=">Far Away Display GIF" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/react-simple-far-away" target="_blank">Far Away</a></td>
+    <td><a href="" target="_blank"></a></td>
+    <td><strong>Far Away</strong> is a React application that helps users manage their travel packing lists. It allows users to add items, mark them as packed or unpacked, delete items, and clear the entire list with a confirmation. The app provides an organized way to keep track of packing progress and ensure nothing is left behind.</td>
     <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
   </tr>
 </table>
