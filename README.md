@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="center">Tech Stack</h3>
-<table>
+<table align="center">
   <tr>
     <td>Frontend</td>
     <td>
@@ -80,9 +80,9 @@
     </td>
   </tr>
 </table>
+</br>
 
-
-<h3 align="left">Example Projects:</h3>
+<h3 align="center">Example Projects</h3>
 <table>
   <tr>
     <th>Display</th>
