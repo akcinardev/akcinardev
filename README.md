@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akcinardev&label=Profile%20views&color=0e75b6&style=flat" alt="akcinardev" /> </p>
 
-- 🌱 I’m currently learning and trying to improve my skills in **Full-Stack Development with ASP.NET, JavaScript, React**
+- 🌱 I’m currently learning and trying to improve my skills in **C#, ASP.NET, JavaScript and React**
 
 - 🤝 I’m looking for help with **any project that i work on. Since i am a beginner i appreciate all feedback.**
 
@@ -80,6 +80,14 @@
     <td><a href="https://github.com/akcinardev/javascript-course/tree/main/guess-my-number" target="_blank">Guess My Number</a></td>
     <td><a href="https://guessthenumber-akcdev.netlify.app/" target="_blank">Demo</a></td>
     <td><strong>Guess My Number</strong> is a simple number guessing game where players try to guess a secret number between 1 and 20. With each incorrect guess, the player's score decreases, and if they guess correctly, they win and can try to beat their high score.</td>
+    <td><img src="https://skillicons.dev/icons?i=js" /></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/akcinardev/javascript-course/blob/main/dice-rolling-game/dicegame-display.gif" alt=">Dice Game Display GIF" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/javascript-course/tree/main/dice-rolling-game" target="_blank">Dice Game</a></td>
+    <td><a href="https://dicegame-akcdev.netlify.app/" target="_blank">Demo</a></td>
+    <td><strong>Dice Game</strong> is a two-player dice game where players take turns rolling a dice to accumulate points. If a player rolls a 1, their turn ends without adding to their total score, and the next player gets a turn. Players can choose to "hold" their score to secure their points. The first player to reach or exceed 20 points wins the game.</td>
     <td><img src="https://skillicons.dev/icons?i=js" /></td>
   </tr>
 </table>
