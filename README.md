@@ -24,29 +24,63 @@
 <table>
   <tr>
     <td>Frontend</td>
-    <td><img src="https://skillicons.dev/icons?i=js,react,html,css" /></td>
+    <td>
+      <div>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a>
+      </div>
+    </td>
   </tr>
 
   <tr>
     <td>Backend</td>
-    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi" /></td>
+    <td>
+      <div>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg" width="50"></a>
+      </div>
+    </td>
   </tr>
 
   <tr>
     <td>DevOps</td>
-    <td><img src="https://skillicons.dev/icons?i=aws,bash,docker,jenkins,ubuntu" /></td>
+    <td>
+      <div>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-light.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/aws.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/vagrant.svg" width="50"></a>
+      </div>
+    </td>
   </tr>
 
   <tr>
     <td>Databases</td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></td>
+    <td>
+      <div>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="50"></a>
+      </div>
+    </td>
   </tr>
 
   <tr>
     <td>Other</td>
-    <td><img src="https://skillicons.dev/icons?i=py,git,github,ps,unity" /></td>
+    <td>
+      <div>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/unity-dark.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jira-dark.svg" width="50"></a>
+        <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
+      </div>
+    </td>
   </tr>
 </table>
+
 
 <h3 align="left">Example Projects:</h3>
 <table>
