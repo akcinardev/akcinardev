@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help with **any project that i work on. Since i am a beginner i appreciate all feedback.**
 
+- 🌐 You can take a look at my personal website. Visit [omerakcinar.com](https://omerakcinar.com/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/akcinardev](https://github.com/akcinardev)
 
 - 📫 How to reach me **akcinardev@gmail.com**
@@ -18,12 +20,33 @@
 <a href="https://www.youtube.com/@omerakc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omerakc" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,py,aws,bash,docker,fastapi,git,github,jenkins,ps,postgres,sqlite,ubuntu,unity" />
-  </a>
-</p>
+<h3 align="center">Tech Stack</h3>
+<table>
+  <tr>
+    <td>Frontend</td>
+    <td><img src="https://skillicons.dev/icons?i=js,react,html,css" /></td>
+  </tr>
+
+  <tr>
+    <td>Backend</td>
+    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi" /></td>
+  </tr>
+
+  <tr>
+    <td>DevOps</td>
+    <td><img src="https://skillicons.dev/icons?i=aws,bash,docker,jenkins,ubuntu" /></td>
+  </tr>
+
+  <tr>
+    <td>Databases</td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></td>
+  </tr>
+
+  <tr>
+    <td>Other</td>
+    <td><img src="https://skillicons.dev/icons?i=py,git,github,ps,unity" /></td>
+  </tr>
+</table>
 
 <h3 align="left">Example Projects:</h3>
 <table>
