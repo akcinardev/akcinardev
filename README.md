@@ -30,14 +30,14 @@
   <tr>
     <th>Display</th>
     <th>Project Name</th>
-    <th>Project URL</th>
+    <th>Demo URL</th>
     <th>Description</th>
     <th>Tech Stack</th>
   </tr>
   <tr>
     <td><img src="https://github.com/akcinardev/html-css-course/blob/main/omnifood/display.gif" alt="Omnifood Project by AkcDev" width="300" /></td>
     <td><a href="https://github.com/akcinardev/html-css-course/tree/main/omnifood" target="_blank">Omnifood</a></td>
-    <td><a href="https://omnifood-akcdev.netlify.app/" target="_blank">Live Demo</a></td>
+    <td><a href="https://omnifood-akcdev.netlify.app/" target="_blank">Demo</a></td>
     <td><p><strong>Omnifood</strong> is a mockup food delivery application that showcases a seamless ordering experience, allowing users to explore restaurants, customize orders, and visualize real-time tracking.</p>
 </td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js" /></td>
@@ -72,6 +72,14 @@
     <td><a href="https://github.com/akcinardev/react-simple-far-away" target="_blank">Far Away</a></td>
     <td><a href="" target="_blank"></a></td>
     <td><strong>Far Away</strong> is a React application that helps users manage their travel packing lists. It allows users to add items, mark them as packed or unpacked, delete items, and clear the entire list with a confirmation. The app provides an organized way to keep track of packing progress and ensure nothing is left behind.</td>
+    <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/akcinardev/javascript-course/blob/main/guess-my-number/guessnumber-display.gif" alt=">Guess My Number Display GIF" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/javascript-course/tree/main/guess-my-number" target="_blank">Guess My Number</a></td>
+    <td><a href="https://guessthenumber-akcdev.netlify.app/" target="_blank">Demo</a></td>
+    <td><strong>Guess My Number</strong> is a simple number guessing game where players try to guess a secret number between 1 and 20. With each incorrect guess, the player's score decreases, and if they guess correctly, they win and can try to beat their high score.</td>
     <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
   </tr>
 </table>
