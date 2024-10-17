@@ -80,6 +80,6 @@
     <td><a href="https://github.com/akcinardev/javascript-course/tree/main/guess-my-number" target="_blank">Guess My Number</a></td>
     <td><a href="https://guessthenumber-akcdev.netlify.app/" target="_blank">Demo</a></td>
     <td><strong>Guess My Number</strong> is a simple number guessing game where players try to guess a secret number between 1 and 20. With each incorrect guess, the player's score decreases, and if they guess correctly, they win and can try to beat their high score.</td>
-    <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" /></td>
   </tr>
 </table>
