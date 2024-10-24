@@ -93,9 +93,9 @@
   </tr>
   
   <tr>
-    <td><img src="" alt="FeierDex Project by AkcDev" width="300" /></td>
+    <td><img src="https://github.com/akcinardev/feierdex-frontend/blob/main/feierdex-display.gif" alt="FeierDex Project by AkcDev" width="300" /></td>
     <td><a href="https://github.com/akcinardev/feierdex-frontend" target="_blank">FeierDex</a></td>
-    <td><a href="" target="_blank">Ongoing</a></td>
+    <td><a href="https://feierdex-akcdev.netlify.app/" target="_blank">Demo</a></td>
     <td><p><strong>FeierDex</strong> is a web application that provides information about the 16 states of Germany, including regional and nationwide holidays, as well as regional events.</p>
 </td>
     <td><img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2" /></td>
