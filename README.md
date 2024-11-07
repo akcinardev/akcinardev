@@ -100,6 +100,23 @@
 </td>
     <td><img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2" /></td>
   </tr>
+
+  <tr>
+    <td><img src="https://github.com/akcinardev/StockMarketAPI/blob/master/stockmarket-display.gif" alt="Stock Market API Display GIF" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/StockMarketAPI" target="_blank">Stock Market API</a></td>
+    <td><a href="" target="_blank"></a></td>
+    <td><strong>StockMarketAPI</strong> is an API for managing stock market data. It allows users to register, log in, and manage their stock portfolios. The API includes features for CRUD (Create, Read, Update, Delete) operations on stocks, comments, and user portfolios. It also supports authorization and JWT (JSON Web Token) for secure access.</td>
+    <td><img src="https://skillicons.dev/icons?i=cs,dotnet" /></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/akcinardev/javascript-course/blob/main/mapty/mapty-display.gif" alt="Omnifood Project by AkcDev" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/javascript-course/tree/main/mapty" target="_blank">Mapty</a></td>
+    <td><a href="" target="_blank"></a></td>
+    <td><p><strong>Mapty</strong> is an app that lets users plan and track their running and cycling routes by adding pins on an interactive map.</p>    
+</td>
+    <td><img src="https://skillicons.dev/icons?i=js&perline=2" /></td>
+  </tr>
   
   <tr>
     <td><img src="https://github.com/akcinardev/html-css-course/blob/main/omnifood/display.gif" alt="Omnifood Project by AkcDev" width="300" /></td>
@@ -111,11 +128,19 @@
   </tr>
 
   <tr>
-    <td><img src="https://github.com/akcinardev/StockMarketAPI/blob/master/stockmarket-display.gif" alt="Stock Market API Display GIF" width="300" /></td>
-    <td><a href="https://github.com/akcinardev/StockMarketAPI" target="_blank">Stock Market API</a></td>
-    <td><a href="" target="_blank"></a></td>
-    <td><strong>StockMarketAPI</strong> is an API for managing stock market data. It allows users to register, log in, and manage their stock portfolios. The API includes features for CRUD (Create, Read, Update, Delete) operations on stocks, comments, and user portfolios. It also supports authorization and JWT (JSON Web Token) for secure access.</td>
-    <td><img src="https://skillicons.dev/icons?i=cs,dotnet" /></td>
+    <td><img src="https://github.com/akcinardev/javascript-course/blob/main/guess-my-number/guessnumber-display.gif" alt=">Guess My Number Display GIF" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/javascript-course/tree/main/guess-my-number" target="_blank">Guess My Number</a></td>
+    <td><a href="https://guessthenumber-akcdev.netlify.app/" target="_blank">Demo</a></td>
+    <td><strong>Guess My Number</strong> is a simple number guessing game where players try to guess a secret number between 1 and 20. With each incorrect guess, the player's score decreases, and if they guess correctly, they win and can try to beat their high score.</td>
+    <td><img src="https://skillicons.dev/icons?i=js" /></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/akcinardev/javascript-course/blob/main/dice-rolling-game/dicegame-display.gif" alt=">Dice Game Display GIF" width="300" /></td>
+    <td><a href="https://github.com/akcinardev/javascript-course/tree/main/dice-rolling-game" target="_blank">Dice Game</a></td>
+    <td><a href="https://dicegame-akcdev.netlify.app/" target="_blank">Demo</a></td>
+    <td><strong>Dice Game</strong> is a two-player dice game where players take turns rolling a dice to accumulate points. If a player rolls a 1, their turn ends without adding to their total score, and the next player gets a turn. Players can choose to "hold" their score to secure their points. The first player to reach or exceed 20 points wins the game.</td>
+    <td><img src="https://skillicons.dev/icons?i=js" /></td>
   </tr>
 
   <tr>
@@ -140,21 +165,5 @@
     <td><a href="" target="_blank"></a></td>
     <td><strong>Far Away</strong> is a React application that helps users manage their travel packing lists. It allows users to add items, mark them as packed or unpacked, delete items, and clear the entire list with a confirmation. The app provides an organized way to keep track of packing progress and ensure nothing is left behind.</td>
     <td><img src="https://skillicons.dev/icons?i=react,js" /></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://github.com/akcinardev/javascript-course/blob/main/guess-my-number/guessnumber-display.gif" alt=">Guess My Number Display GIF" width="300" /></td>
-    <td><a href="https://github.com/akcinardev/javascript-course/tree/main/guess-my-number" target="_blank">Guess My Number</a></td>
-    <td><a href="https://guessthenumber-akcdev.netlify.app/" target="_blank">Demo</a></td>
-    <td><strong>Guess My Number</strong> is a simple number guessing game where players try to guess a secret number between 1 and 20. With each incorrect guess, the player's score decreases, and if they guess correctly, they win and can try to beat their high score.</td>
-    <td><img src="https://skillicons.dev/icons?i=js" /></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://github.com/akcinardev/javascript-course/blob/main/dice-rolling-game/dicegame-display.gif" alt=">Dice Game Display GIF" width="300" /></td>
-    <td><a href="https://github.com/akcinardev/javascript-course/tree/main/dice-rolling-game" target="_blank">Dice Game</a></td>
-    <td><a href="https://dicegame-akcdev.netlify.app/" target="_blank">Demo</a></td>
-    <td><strong>Dice Game</strong> is a two-player dice game where players take turns rolling a dice to accumulate points. If a player rolls a 1, their turn ends without adding to their total score, and the next player gets a turn. Players can choose to "hold" their score to secure their points. The first player to reach or exceed 20 points wins the game.</td>
-    <td><img src="https://skillicons.dev/icons?i=js" /></td>
   </tr>
 </table>
